@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-cron",
+  "version": "1.0.0",
+  "description": "Simple one-shot cron job: prints messages, then exits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
